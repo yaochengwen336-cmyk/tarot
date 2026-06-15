@@ -1,0 +1,9 @@
+data/users.json
+data/sessions.json
+data/readings.json
+data/
+server.js
+auth-client.js
+package.json
+__frames/
+__pycache__/
